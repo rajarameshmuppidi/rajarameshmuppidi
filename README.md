@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajarameshmuppidi
-- 👀 I’m interested in full stack web development using MERN
-- 🌱 I’m currently learning MERN
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently learning frontend from freeCodeCamp
 - 💞️ I’m looking to collaborate on exciting full stack projects
 - 📫 How to reach me linkedIn
 - 😄 Pronouns: He/Him
